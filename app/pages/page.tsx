@@ -2,7 +2,7 @@
 import { useState } from "react"
 
 export default function Pages() {
-    const [inputforApiTest, setInputforApiTest] = useState("")
+    // const [inputforApiTest, setInputforApiTest] = useState("")
     return(
         <div>
             <input
